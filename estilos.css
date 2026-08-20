@@ -30,3 +30,9 @@ p {
 #momentos-especiales {
   color: orange;
 }
+
+.recuerdo {
+  background-color: gray;
+  padding: 20px;
+  margin: 20px;
+}
