@@ -1,5 +1,6 @@
 body {
   background-color: pink;
+  font-family: Arial, sans-serif;
 }
 
 h1 {
@@ -9,6 +10,7 @@ h1 {
 }
 
 h2 {
+  font-weight:bold;
   margin: 20px;
   padding: 30px;
   background-color: white;
@@ -19,6 +21,7 @@ h3 {
 }
 
 p {
+  line-height: 1.6;
   width: 70%;
   margin: auto;
 }
