@@ -35,4 +35,10 @@ p {
   background-color: gray;
   padding: 20px;
   margin: 20px;
+  border-radious: 15px;
+}
+
+.recuerdo img {
+  wdith: 100%;
+  border-radious: 10px;
 }
