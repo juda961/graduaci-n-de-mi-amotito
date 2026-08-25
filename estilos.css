@@ -42,6 +42,7 @@ p {
   padding: 20px;
   margin: 20px;
   border-radius: 15px;
+  border: 2px solid #C9A227;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
