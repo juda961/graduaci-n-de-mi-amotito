@@ -7,6 +7,7 @@ h1 {
   color: red;
   font-size: 40px;
   text-align: center;
+  font-family: Georgia, serif;
 }
 
 h2 {
@@ -18,11 +19,13 @@ h2 {
 
 h3 {
   font-size: 2rem;
+  font-weight: bold;
 }
 
 p {
   line-height: 1.6;
   width: 70%;
+  max-width: 600px;
   margin: auto;
 }
 
